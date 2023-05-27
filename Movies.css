@@ -5,6 +5,8 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+
+
 .navbar{
     width: 85%;
     margin: auto;
@@ -21,7 +23,6 @@ header .navbar a:hover{
     color: #000;
     background: #fff;
   }
-  
   
   header .btn{
     color: #fff;
